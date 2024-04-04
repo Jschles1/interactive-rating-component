@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Jschles1/interactive-rating-component](https://github.com/Jschles1/interactive-rating-component)
+- Live Site URL: [https://interactive-rating-component-rouge-two.vercel.app/](https://interactive-rating-component-rouge-two.vercel.app/)
 
 ## My process
 
@@ -43,5 +43,5 @@ This is my time using Remix as a web framework. It offers an interesting alterna
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [John Schlesinger](https://jschles-portfolio.vercel.app/)
 - Frontend Mentor - [@Jschles1](https://www.frontendmentor.io/profile/Jschles1)
